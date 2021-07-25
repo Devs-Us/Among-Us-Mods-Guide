@@ -13,7 +13,6 @@ A simple software that has everything from installing a mod to adding your own h
 
 If you have any feedback regarding the game, this may include:
 
-- Bugs
 - Suggestions
 - Support
 - Inquiries
