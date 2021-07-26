@@ -9,6 +9,11 @@ A simple software that has everything from installing a mod to adding your own h
 - How to add custom Hats (without coding)
 - How to add custom Skins (without coding)
 
+# Supported OS
+- Windows
+- Mac
+- Linux
+
 # Feedback
 
 If you have any feedback regarding the game, this may include:
