@@ -16,7 +16,7 @@ A simple software that has everything from installing a mod to adding your own h
 
 # Feedback
 
-If you have any feedback regarding the game, this may include:
+If you have any feedback regarding the software, this may include:
 
 - Suggestions
 - Support
